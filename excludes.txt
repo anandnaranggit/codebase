@@ -1,6 +1,5 @@
 SampleDeployClass.cls
 SampleDeployClass.cls-meta.xml
-SampleFailingTestClass.cls
-SampleFailingTestClass.cls-meta.xml
+
 SampleAccountTrigger.trigger
 SampleAccountTrigger.trigger-meta.xml
